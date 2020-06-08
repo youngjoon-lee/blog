@@ -1,3 +1,4 @@
+baseURL = "https://youngjoon-lee.github.io/blog/"
 languageCode = "en-us"
 title = "Youngjoon Lee"
 publishDir = "docs"
