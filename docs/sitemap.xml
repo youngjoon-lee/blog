@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://youngjoon-lee.github.io/posts/hello/</loc>
+    <loc>/posts/hello/</loc>
     <lastmod>2020-06-08T17:26:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://youngjoon-lee.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-06-08T17:26:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://youngjoon-lee.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-08T17:26:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://youngjoon-lee.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://youngjoon-lee.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

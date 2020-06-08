@@ -1,4 +1,3 @@
-baseURL = "https://youngjoon-lee.github.io/"
 languageCode = "en-us"
 title = "Youngjoon Lee"
 publishDir = "docs"
