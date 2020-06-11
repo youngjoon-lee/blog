@@ -5,4 +5,4 @@ draft: false
 ---
 My first open source [contribution](https://github.com/argoproj/argo/pull/3014) (bugfix) to Argo.
 It was just released as [v2.9.0-rc1](https://github.com/argoproj/argo/releases/tag/v2.9.0-rc1).
-![](/static/argo-release.png)
+![](/argo-release.png)
