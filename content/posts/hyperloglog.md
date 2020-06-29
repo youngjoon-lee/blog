@@ -66,3 +66,7 @@ Durand-Flajolet derived the `constant = 0.79402`. For `m` buckets, this reduces 
 ```
 CARDINALITY = constant * m * m / (2^(-R1) + ... + 2^(-Rm))
 ```
+
+## References
+
+https://engineering.fb.com/data-infrastructure/hyperloglog/
