@@ -2,6 +2,7 @@ languageCode = "en-us"
 title = "Youngjoon Lee"
 theme = "smol"
 staticDir = ["static"]
+googleAnalytics = "UA-144368893-2"
 
 # Header
 [menu]
