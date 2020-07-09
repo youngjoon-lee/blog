@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:youngjoon-lee/youngjoon-lee.github.io.git
 	branch = master
+[submodule "themes/axiom"]
+	path = themes/axiom
+	url = https://github.com/marketempower/axiom.git
